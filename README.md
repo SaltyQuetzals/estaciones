@@ -1,7 +1,7 @@
 # Estaciones
 Got a pile of "Liked" songs in your Spotify?
 
-One of those people who can't be bothered to create intricate playlists? Wish you didn't have to keep hitting shuffle as often?
+One of those people who can't be bothered to create intricate playlists? Wish you didn't have to keep skipping tracks until you find a song you like?
 
 Same.
 
@@ -15,3 +15,6 @@ This script will group your "Liked" Spotify songs into seasons (which are define
 4. Run `main.py`. 
 
 Use this script at your own risk to your Spotify playlists library. This script won't delete anything, but errors will create empty playlists that you have to delete one-by-one.
+
+### Name
+_Estación_ (_estaciones_, plural) in Spanish means both "station" (as in radio station) and season (as in time of year). 
